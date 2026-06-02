@@ -6,7 +6,7 @@
 
 1. 克隆仓库：
    ```bash
-   git clone https://github.com/jxcchen/tank-battle.git
+   git clone https://github.com/niututu5/tank-battle.git
    ```
 
 2. 直接用浏览器打开 `index.html` 即可开始游戏！
